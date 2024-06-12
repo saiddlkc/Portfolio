@@ -41,6 +41,12 @@
     grid-template-columns: 1fr;
     gap: 1rem;
   }
+  .img__container {
+    
+    width: 200px;
+    height: 150px;
+    
+  }
 }
 
 .img__container {
