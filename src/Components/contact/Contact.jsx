@@ -2,6 +2,7 @@ import React from "react";
 import "./contact.css";
 import { IoMdMail } from "react-icons/io";
 import { FaDiscord } from "react-icons/fa6";
+import { FaInstagramSquare } from "react-icons/fa";
 
 const Contact = () => {
   return (
@@ -28,11 +29,11 @@ const Contact = () => {
           </div>
           <div className="contact__options">
             <article className="contact__option">
-              <FaDiscord className="contact__option-icon" />
-              <h4>Discord</h4>
+              <FaInstagramSquare className="contact__option-icon" />
+              <h4>Instagram</h4>
               <h5>said_dlkc</h5>
-              <a href="https://discord.com/" target="blank">
-                add me on Discord
+              <a href="https://instagram.com/said_dlkc" target="blank">
+                add me on Instagram
               </a>
             </article>
           </div>
