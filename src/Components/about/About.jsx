@@ -39,10 +39,14 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus
-            optio tempore maxime vitae veritatis praesentium distinctio iure,
-            necessitatibus recusandae aperiam hic sunt! Excepturi perferendis,
-            ad repudiandae culpa incidunt dolorem voluptate.
+            Ich bin Sait bin 25 Jahre Alt , ein Fullstack-Entwickler mit Sitz in
+            Berlin Kreuzberg und brenne dafür, innovative und
+            benutzerfreundliche Webanwendungen zu entwickeln. Mit meiner
+            Expertise in Frontend- und Backend-Technologien sowie meiner
+            Lernbereitschaft und Motivation bin ich bereit, jedes Projekt mit
+            Leidenschaft und Engagement anzugehen.Ich bin überzeugt, dass man in
+            jedem Lebensbereich etwas lernen kann, und ich bin stets offen für
+            neue Erfahrungen.
           </p>
           <a href="#contact" className="btn btn-primary">
             Connect with ME
