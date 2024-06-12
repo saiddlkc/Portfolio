@@ -22,7 +22,7 @@ const Portfolio = () => {
       image: Spotify,
       title: "Spotify Clone",
       github: "https://github.com/saiddlkc/dastify-klonen",
-      demo: "https://dastify-klonen.vercel.app/",
+      demo: "https://spotify-clone-beta-dusky.vercel.app/",
     },
     {
       id: 3,
