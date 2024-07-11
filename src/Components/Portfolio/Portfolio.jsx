@@ -7,22 +7,23 @@ import Quiz from "../../assets/Quiz.JPG";
 import Wetter from "../../assets/Wetter.JPG";
 import Workout from "../../assets/workoutbuddy.JPG";
 import Amazon from "../../assets/amazon.JPG";
+import Event from "../../assets/eventhub-logo.png";
 
 const Portfolio = () => {
   const projects = [
     {
       id: 1,
-      image: Immo,
-      title: "Immohub",
-      github: "https://github.com/saiddlkc/Immo_Hub",
-      demo: "https://verc-test-neon.vercel.app/",
+      image: Event,
+      title: "Eventhub",
+      github: "https://github.com/saiddlkc/Eventim-Clone",
+      demo: "https://eventhub-five-jade.vercel.app/",
     },
     {
       id: 2,
-      image: Spotify,
-      title: "Spotify Clone",
-      github: "https://github.com/saiddlkc/dastify-klonen",
-      demo: "https://spotify-clone-beta-dusky.vercel.app/",
+      image: Workout,
+      title: "Workout Buddy",
+      github: "https://github.com/saiddlkc/Mern-stack",
+      demo: "https://mern-stack-gamma-nine.vercel.app/login",
     },
     {
       id: 3,
@@ -40,24 +41,31 @@ const Portfolio = () => {
     },
     {
       id: 5,
+      image: Spotify,
+      title: "Spotify Clone",
+      github: "https://github.com/saiddlkc/dastify-klonen",
+      demo: "https://spotify-clone-beta-dusky.vercel.app/",
+    },
+    {
+      id: 6,
+      image: Immo,
+      title: "Immohub",
+      github: "https://github.com/saiddlkc/Immo_Hub",
+      demo: "https://verc-test-neon.vercel.app/",
+    },
+    {
+      id: 7,
       image: Wetter,
       title: "Wetter App",
       github: "https://github.com/saiddlkc/WetterApp",
       demo: "https://weather-app-iota-fawn-94.vercel.app/",
     },
     {
-      id: 6,
+      id: 8,
       image: Quiz,
       title: "Quiz App",
       github: "https://github.com/saiddlkc",
       demo: "https://github.com/saiddlkc/Projekt-Quiz",
-    },
-    {
-      id: 7,
-      image: Workout,
-      title: "Workout Buddy",
-      github: "https://github.com/saiddlkc/Mern-stack",
-      demo: "https://mern-stack-gamma-nine.vercel.app/login",
     },
   ];
 
