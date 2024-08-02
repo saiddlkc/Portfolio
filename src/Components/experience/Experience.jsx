@@ -11,6 +11,8 @@ import { SiTailwindcss } from "react-icons/si";
 import { FaGitAlt } from "react-icons/fa6";
 import { SiMongodb } from "react-icons/si";
 import { TbSql } from "react-icons/tb";
+import { FaPhp } from "react-icons/fa";
+import { FaLaravel } from "react-icons/fa";
 
 const Experience = () => {
   return (
@@ -93,7 +95,7 @@ const Experience = () => {
             <article className="experience__details">
               <TbSql className="experience__details-icon" />
               <div>
-                <h4>SQL</h4>
+                <h4>MYSQL</h4>
                 <small className="text-light">Good</small>
               </div>
             </article>
@@ -101,7 +103,21 @@ const Experience = () => {
               <FaPython className="experience__details-icon" />
               <div>
                 <h4>Python</h4>
-                <small className="text-light">Noob</small>
+                <small className="text-light">New</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <FaPhp className="experience__details-icon" />
+              <div>
+                <h4>PHP</h4>
+                <small className="text-light">New</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <FaLaravel className="experience__details-icon" />
+              <div>
+                <h4>Laravel</h4>
+                <small className="text-light">New</small>
               </div>
             </article>
           </div>
